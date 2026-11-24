@@ -1665,6 +1665,7 @@ pfDB["quests"]["data-epoch"] = {
     ["pre"] = { 2202 },
     ["race"] = 178,
     ["skill"] = 171,
+    ["skillmin"] = 210,
     ["lvl"] = 44,
     ["min"] = 40,
   },
@@ -2051,6 +2052,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2077,6 +2079,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2089,6 +2092,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2113,6 +2117,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2125,6 +2130,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2138,6 +2144,7 @@ pfDB["quests"]["data-epoch"] = {
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["race"] = 77,
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2150,6 +2157,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2163,6 +2171,7 @@ pfDB["quests"]["data-epoch"] = {
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["race"] = 178,
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2178,6 +2187,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3638, 3640, 3642 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2193,6 +2203,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3638, 3640, 3642 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2208,6 +2219,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3638, 3640, 3642 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -2426,6 +2438,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 3526, 3629, 3630, 3632, 3633, 3634, 3635, 3637, 4181 },
     ["skill"] = 202,
+    ["skillmin"] = 200,
     ["lvl"] = 47,
     ["min"] = 30,
   },
@@ -3068,6 +3081,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5141, 5143, 5144 },
     ["skill"] = 165,
+    ["skillmin"] = 225,
     ["lvl"] = 55,
     ["min"] = 40,
   },
@@ -3095,6 +3109,7 @@ pfDB["quests"]["data-epoch"] = {
     ["close"] = { 5141, 5143, 5144 },
     ["pre"] = { 2853 },
     ["skill"] = 165,
+    ["skillmin"] = 225,
     ["lvl"] = 55,
     ["min"] = 40,
   },
@@ -3110,6 +3125,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5141, 5143, 5144 },
     ["skill"] = 165,
+    ["skillmin"] = 225,
     ["lvl"] = 55,
     ["min"] = 40,
   },
@@ -3125,6 +3141,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5145, 5146, 5148 },
     ["skill"] = 165,
+    ["skillmin"] = 225,
     ["lvl"] = 55,
     ["min"] = 40,
   },
@@ -3140,6 +3157,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5145, 5146, 5148 },
     ["skill"] = 165,
+    ["skillmin"] = 225,
     ["lvl"] = 55,
     ["min"] = 40,
   },
@@ -3156,6 +3174,7 @@ pfDB["quests"]["data-epoch"] = {
     ["close"] = { 5145, 5146, 5148 },
     ["pre"] = { 2860 },
     ["skill"] = 165,
+    ["skillmin"] = 225,
     ["lvl"] = 55,
     ["min"] = 40,
   },
@@ -3248,6 +3267,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5283, 5284 },
     ["skill"] = 164,
+    ["skillmin"] = 200,
     ["lvl"] = 40,
     ["min"] = 40,
   },
@@ -3263,6 +3283,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5283, 5284 },
     ["skill"] = 164,
+    ["skillmin"] = 200,
     ["lvl"] = 40,
     ["min"] = 40,
   },
@@ -3278,6 +3299,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5301, 5302 },
     ["skill"] = 164,
+    ["skillmin"] = 200,
     ["lvl"] = 40,
     ["min"] = 40,
   },
@@ -3293,6 +3315,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["close"] = { 5301, 5302 },
     ["skill"] = 164,
+    ["skillmin"] = 200,
     ["lvl"] = 40,
     ["min"] = 40,
   },
@@ -4574,6 +4597,7 @@ pfDB["quests"]["data-epoch"] = {
       ["U"] = { 12920 },
     },
     ["skill"] = 129,
+    ["skillmin"] = 225,
     ["lvl"] = 45,
     ["min"] = 40,
   },
@@ -4587,6 +4611,7 @@ pfDB["quests"]["data-epoch"] = {
     ["close"] = { 6625, 6624 },
     ["pre"] = { 6625 },
     ["skill"] = 129,
+    ["skillmin"] = 225,
     ["lvl"] = 45,
     ["min"] = 40,
   },
@@ -6496,6 +6521,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60007 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6511,6 +6537,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60008 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6526,6 +6553,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60009 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6541,6 +6569,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60010 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6556,6 +6585,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60011 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6571,6 +6601,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60012 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6586,6 +6617,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60013 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6601,6 +6633,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60014 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6616,6 +6649,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60015 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6631,6 +6665,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60016 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6646,6 +6681,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60017 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6661,6 +6697,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60018 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6676,6 +6713,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60019 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6691,6 +6729,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60020 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6706,6 +6745,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60021 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6721,6 +6761,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60022 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6736,6 +6777,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60023 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6751,6 +6793,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60024 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6766,6 +6809,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60025 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6781,6 +6825,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60026 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6796,6 +6841,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60027 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6811,6 +6857,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60028 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6826,6 +6873,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60029 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6841,6 +6889,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60030 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6856,6 +6905,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60031 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -6871,6 +6921,7 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 60032 },
     },
     ["skill"] = 356,
+    ["skillmin"] = 300,
     ["event"] = 1131,
     ["lvl"] = 60,
     ["min"] = 60,
@@ -18784,6 +18835,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["next"] = 27078,
     ["skill"] = 171,
+    ["skillmin"] = 250,
     ["lvl"] = 52,
     ["min"] = 47,
   },
@@ -18800,6 +18852,7 @@ pfDB["quests"]["data-epoch"] = {
     ["pre"] = { 27077 },
     ["next"] = 27079,
     ["skill"] = 171,
+    ["skillmin"] = 250,
     ["lvl"] = 52,
     ["min"] = 47,
   },
@@ -18816,6 +18869,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["pre"] = { 27078 },
     ["skill"] = 171,
+    ["skillmin"] = 250,
     ["lvl"] = 52,
     ["min"] = 47,
   },
@@ -19417,6 +19471,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["next"] = 27124,
     ["skill"] = 182,
+    ["skillmin"] = 250,
     ["lvl"] = 52,
     ["min"] = 47,
   },
@@ -19433,6 +19488,7 @@ pfDB["quests"]["data-epoch"] = {
     ["pre"] = { 27123 },
     ["next"] = 27125,
     ["skill"] = 182,
+    ["skillmin"] = 250,
     ["lvl"] = 52,
     ["min"] = 47,
   },
@@ -19448,6 +19504,7 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["pre"] = { 27124 },
     ["skill"] = 182,
+    ["skillmin"] = 250,
     ["lvl"] = 52,
     ["min"] = 47,
   },
@@ -25646,7 +25703,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27587] = {
     ["start"] = {
@@ -25661,7 +25718,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27588] = {
     ["start"] = {
@@ -25676,7 +25733,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27589] = {
     ["start"] = {
@@ -25691,7 +25748,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27590] = {
     ["start"] = {
@@ -25706,7 +25763,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27591] = {
     ["start"] = {
@@ -25721,7 +25778,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27592] = {
     ["start"] = {
@@ -25736,7 +25793,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27593] = {
     ["start"] = {
@@ -25751,7 +25808,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27594] = {
     ["start"] = {
@@ -25766,7 +25823,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27595] = {
     ["start"] = {
@@ -25781,7 +25838,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27596] = {
     ["start"] = {
@@ -25796,7 +25853,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27597] = {
     ["start"] = {
@@ -25811,7 +25868,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27598] = {
     ["start"] = {
@@ -25826,7 +25883,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27599] = {
     ["start"] = {
@@ -25841,7 +25898,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27600] = {
     ["start"] = {
@@ -25856,7 +25913,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27601] = {
     ["start"] = {
@@ -25871,7 +25928,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27602] = {
     ["start"] = {
@@ -25886,7 +25943,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27603] = {
     ["start"] = {
@@ -25901,7 +25958,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27604] = {
     ["start"] = {
@@ -25916,7 +25973,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27605] = {
     ["start"] = {
@@ -25931,7 +25988,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27606] = {
     ["start"] = {
@@ -25946,7 +26003,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27607] = {
     ["start"] = {
@@ -25961,7 +26018,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27608] = {
     ["start"] = {
@@ -25976,7 +26033,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27609] = {
     ["start"] = {
@@ -25991,7 +26048,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27610] = {
     ["start"] = {
@@ -26007,7 +26064,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27611] = {
     ["start"] = {
@@ -26022,7 +26079,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27612] = {
     ["start"] = {
@@ -26037,7 +26094,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27613] = {
     ["start"] = {
@@ -26052,7 +26109,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27614] = {
     ["start"] = {
@@ -26067,7 +26124,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27615] = {
     ["start"] = {
@@ -26082,7 +26139,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27616] = {
     ["start"] = {
@@ -26097,7 +26154,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27617] = {
     ["start"] = {
@@ -26112,7 +26169,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27618] = {
     ["start"] = {
@@ -26127,7 +26184,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27619] = {
     ["start"] = {
@@ -26142,7 +26199,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27620] = {
     ["start"] = {
@@ -26157,7 +26214,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 50,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27621] = {
     ["start"] = {
@@ -26172,7 +26229,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27622] = {
     ["start"] = {
@@ -26187,7 +26244,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27623] = {
     ["start"] = {
@@ -26202,7 +26259,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27624] = {
     ["start"] = {
@@ -26217,7 +26274,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27625] = {
     ["start"] = {
@@ -26232,7 +26289,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27626] = {
     ["start"] = {
@@ -26247,7 +26304,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27627] = {
     ["start"] = {
@@ -26262,7 +26319,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27628] = {
     ["start"] = {
@@ -26277,7 +26334,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27629] = {
     ["start"] = {
@@ -26292,7 +26349,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27630] = {
     ["start"] = {
@@ -26307,7 +26364,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27631] = {
     ["start"] = {
@@ -26322,7 +26379,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27632] = {
     ["start"] = {
@@ -26337,7 +26394,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27633] = {
     ["start"] = {
@@ -26353,7 +26410,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27634] = {
     ["start"] = {
@@ -26368,7 +26425,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27635] = {
     ["start"] = {
@@ -26383,7 +26440,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 171,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27636] = {
     ["start"] = {
@@ -26398,7 +26455,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27637] = {
     ["start"] = {
@@ -26413,7 +26470,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27638] = {
     ["start"] = {
@@ -26428,7 +26485,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27639] = {
     ["start"] = {
@@ -26443,7 +26500,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27640] = {
     ["start"] = {
@@ -26458,7 +26515,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27641] = {
     ["start"] = {
@@ -26473,7 +26530,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27642] = {
     ["start"] = {
@@ -26488,7 +26545,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27643] = {
     ["start"] = {
@@ -26503,7 +26560,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27644] = {
     ["start"] = {
@@ -26518,7 +26575,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27645] = {
     ["start"] = {
@@ -26533,7 +26590,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27646] = {
     ["start"] = {
@@ -26548,7 +26605,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27647] = {
     ["start"] = {
@@ -26563,7 +26620,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27648] = {
     ["start"] = {
@@ -26578,7 +26635,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27649] = {
     ["start"] = {
@@ -26593,7 +26650,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27650] = {
     ["start"] = {
@@ -26608,7 +26665,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27651] = {
     ["start"] = {
@@ -26623,7 +26680,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27652] = {
     ["start"] = {
@@ -26638,7 +26695,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27653] = {
     ["start"] = {
@@ -26653,7 +26710,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27654] = {
     ["start"] = {
@@ -26668,7 +26725,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27655] = {
     ["start"] = {
@@ -26683,7 +26740,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27656] = {
     ["start"] = {
@@ -26698,7 +26755,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27657] = {
     ["start"] = {
@@ -26713,7 +26770,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27658] = {
     ["start"] = {
@@ -26728,7 +26785,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27659] = {
     ["start"] = {
@@ -26743,7 +26800,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27660] = {
     ["start"] = {
@@ -26758,7 +26815,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27661] = {
     ["start"] = {
@@ -26773,7 +26830,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27662] = {
     ["start"] = {
@@ -26788,7 +26845,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27663] = {
     ["start"] = {
@@ -26803,7 +26860,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27664] = {
     ["start"] = {
@@ -26818,7 +26875,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27665] = {
     ["start"] = {
@@ -26833,7 +26890,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27666] = {
     ["start"] = {
@@ -26848,7 +26905,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [27667] = {
     ["start"] = {
@@ -26863,7 +26920,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27668] = {
     ["start"] = {
@@ -26878,7 +26935,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27669] = {
     ["start"] = {
@@ -26893,7 +26950,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27670] = {
     ["start"] = {
@@ -26908,7 +26965,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27671] = {
     ["start"] = {
@@ -26923,7 +26980,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27672] = {
     ["start"] = {
@@ -26938,7 +26995,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [27673] = {
     ["start"] = {
@@ -26953,7 +27010,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27674] = {
     ["start"] = {
@@ -26968,7 +27025,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27675] = {
     ["start"] = {
@@ -26983,7 +27040,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27676] = {
     ["start"] = {
@@ -26998,7 +27055,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27677] = {
     ["start"] = {
@@ -27013,7 +27070,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [27678] = {
     ["start"] = {
@@ -27028,7 +27085,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27679] = {
     ["start"] = {
@@ -27043,7 +27100,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27680] = {
     ["start"] = {
@@ -27058,7 +27115,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27681] = {
     ["start"] = {
@@ -27073,7 +27130,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [27682] = {
     ["start"] = {
@@ -27088,7 +27145,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 200,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27683] = {
     ["start"] = {
@@ -27103,7 +27160,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27684] = {
     ["start"] = {
@@ -27116,9 +27173,9 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 15871 },
     },
     ["skill"] = 164,
-    ["skillmin"] = 200,
+    ["skillmin"] = 225,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27685] = {
     ["start"] = {
@@ -27133,7 +27190,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 164,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [27782] = {
   },
@@ -29684,7 +29741,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28063] = {
     ["start"] = {
@@ -29699,7 +29756,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28064] = {
     ["start"] = {
@@ -29712,9 +29769,9 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 5525 },
     },
     ["skill"] = 185,
-    ["skillmin"] = 50,
+    ["skillmin"] = 75,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28065] = {
     ["start"] = {
@@ -29727,9 +29784,9 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 5095 },
     },
     ["skill"] = 185,
-    ["skillmin"] = 50,
+    ["skillmin"] = 75,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28066] = {
     ["start"] = {
@@ -29744,7 +29801,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 100,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28067] = {
     ["start"] = {
@@ -29759,7 +29816,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 100,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28068] = {
     ["start"] = {
@@ -29774,7 +29831,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28069] = {
     ["start"] = {
@@ -29789,7 +29846,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 150,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28070] = {
     ["start"] = {
@@ -29805,7 +29862,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 150,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28071] = {
     ["start"] = {
@@ -29820,7 +29877,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28072] = {
     ["start"] = {
@@ -29835,7 +29892,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 150,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28073] = {
     ["start"] = {
@@ -29850,7 +29907,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 200,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28074] = {
     ["start"] = {
@@ -29865,7 +29922,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 200,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28075] = {
     ["start"] = {
@@ -29880,7 +29937,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 200,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28076] = {
     ["start"] = {
@@ -29895,7 +29952,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28077] = {
     ["start"] = {
@@ -29910,7 +29967,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28078] = {
     ["start"] = {
@@ -29925,7 +29982,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28079] = {
     ["start"] = {
@@ -29940,7 +29997,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28080] = {
     ["start"] = {
@@ -29953,9 +30010,9 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 5525 },
     },
     ["skill"] = 185,
-    ["skillmin"] = 50,
+    ["skillmin"] = 75,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28081] = {
     ["start"] = {
@@ -29968,9 +30025,9 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 5095 },
     },
     ["skill"] = 185,
-    ["skillmin"] = 50,
+    ["skillmin"] = 75,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28082] = {
     ["start"] = {
@@ -29985,7 +30042,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 100,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28083] = {
     ["start"] = {
@@ -30000,7 +30057,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 100,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28084] = {
     ["start"] = {
@@ -30015,7 +30072,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28085] = {
     ["start"] = {
@@ -30030,7 +30087,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 150,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28086] = {
     ["start"] = {
@@ -30045,7 +30102,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 185,
     ["skillmin"] = 150,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28087] = {
     ["start"] = {
@@ -30060,7 +30117,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28366] = {
     ["start"] = {
@@ -30206,7 +30263,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28376] = {
     ["start"] = {
@@ -30218,7 +30275,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28377] = {
     ["start"] = {
@@ -30230,7 +30287,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28378] = {
     ["start"] = {
@@ -30245,7 +30302,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28379] = {
     ["start"] = {
@@ -30257,7 +30314,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28380] = {
     ["start"] = {
@@ -30272,7 +30329,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28381] = {
     ["start"] = {
@@ -30284,7 +30341,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28382] = {
     ["start"] = {
@@ -30296,7 +30353,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28383] = {
     ["start"] = {
@@ -30311,7 +30368,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28384] = {
     ["start"] = {
@@ -30326,7 +30383,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28385] = {
     ["start"] = {
@@ -30338,7 +30395,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28386] = {
     ["start"] = {
@@ -30353,7 +30410,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28387] = {
     ["start"] = {
@@ -30368,7 +30425,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28388] = {
     ["start"] = {
@@ -30383,7 +30440,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28389] = {
     ["start"] = {
@@ -30395,7 +30452,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28390] = {
     ["start"] = {
@@ -30407,7 +30464,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28391] = {
     ["start"] = {
@@ -30420,9 +30477,9 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 11289 },
     },
     ["skill"] = 333,
-    ["skillmin"] = 150,
+    ["skillmin"] = 175,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28392] = {
     ["start"] = {
@@ -30437,7 +30494,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28393] = {
     ["start"] = {
@@ -30449,7 +30506,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28394] = {
     ["start"] = {
@@ -30461,7 +30518,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28395] = {
     ["start"] = {
@@ -30476,7 +30533,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28396] = {
     ["start"] = {
@@ -30491,7 +30548,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28397] = {
     ["start"] = {
@@ -30506,7 +30563,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28398] = {
     ["start"] = {
@@ -30521,7 +30578,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28399] = {
     ["start"] = {
@@ -30536,7 +30593,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28400] = {
     ["start"] = {
@@ -30548,7 +30605,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28401] = {
     ["start"] = {
@@ -30560,7 +30617,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28402] = {
     ["start"] = {
@@ -30572,7 +30629,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28403] = {
     ["start"] = {
@@ -30587,7 +30644,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28404] = {
     ["start"] = {
@@ -30599,7 +30656,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28405] = {
     ["start"] = {
@@ -30614,7 +30671,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 50,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28406] = {
     ["start"] = {
@@ -30626,7 +30683,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28407] = {
     ["start"] = {
@@ -30638,7 +30695,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28408] = {
     ["start"] = {
@@ -30653,7 +30710,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28409] = {
     ["start"] = {
@@ -30668,7 +30725,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28410] = {
     ["start"] = {
@@ -30680,7 +30737,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28411] = {
     ["start"] = {
@@ -30695,7 +30752,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28412] = {
     ["start"] = {
@@ -30710,7 +30767,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28413] = {
     ["start"] = {
@@ -30725,7 +30782,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28414] = {
     ["start"] = {
@@ -30737,7 +30794,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28415] = {
     ["start"] = {
@@ -30750,7 +30807,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28416] = {
     ["start"] = {
@@ -30765,7 +30822,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28417] = {
     ["start"] = {
@@ -30780,7 +30837,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28418] = {
     ["start"] = {
@@ -30792,7 +30849,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28419] = {
     ["start"] = {
@@ -30804,7 +30861,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28420] = {
     ["start"] = {
@@ -30819,7 +30876,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28421] = {
     ["start"] = {
@@ -30834,7 +30891,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28422] = {
     ["start"] = {
@@ -30849,7 +30906,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28423] = {
     ["start"] = {
@@ -30864,7 +30921,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 333,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28424] = {
     ["start"] = {
@@ -30879,7 +30936,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28425] = {
     ["start"] = {
@@ -30894,7 +30951,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28426] = {
     ["start"] = {
@@ -30909,7 +30966,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28427] = {
     ["start"] = {
@@ -30924,7 +30981,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28428] = {
     ["start"] = {
@@ -30939,7 +30996,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28429] = {
     ["start"] = {
@@ -30954,7 +31011,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28430] = {
     ["start"] = {
@@ -30969,7 +31026,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28431] = {
     ["start"] = {
@@ -30984,7 +31041,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28432] = {
     ["start"] = {
@@ -30999,7 +31056,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28433] = {
     ["start"] = {
@@ -31014,7 +31071,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28434] = {
     ["start"] = {
@@ -31029,7 +31086,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28435] = {
     ["start"] = {
@@ -31044,7 +31101,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28436] = {
     ["start"] = {
@@ -31059,7 +31116,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28437] = {
     ["start"] = {
@@ -31074,7 +31131,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28438] = {
     ["start"] = {
@@ -31089,7 +31146,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28439] = {
     ["start"] = {
@@ -31104,7 +31161,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28440] = {
     ["start"] = {
@@ -31119,7 +31176,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28441] = {
     ["start"] = {
@@ -31134,7 +31191,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28442] = {
     ["start"] = {
@@ -31149,7 +31206,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28443] = {
     ["start"] = {
@@ -31164,7 +31221,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28444] = {
     ["start"] = {
@@ -31179,7 +31236,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28445] = {
     ["start"] = {
@@ -31194,7 +31251,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28446] = {
     ["start"] = {
@@ -31209,7 +31266,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28447] = {
     ["start"] = {
@@ -31224,7 +31281,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28448] = {
     ["start"] = {
@@ -31239,7 +31296,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28449] = {
     ["start"] = {
@@ -31254,7 +31311,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28450] = {
     ["start"] = {
@@ -31269,7 +31326,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28451] = {
     ["start"] = {
@@ -31284,7 +31341,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28452] = {
     ["start"] = {
@@ -31299,7 +31356,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28453] = {
     ["start"] = {
@@ -31314,7 +31371,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28454] = {
     ["start"] = {
@@ -31329,7 +31386,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 10,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28455] = {
     ["start"] = {
@@ -31344,7 +31401,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28456] = {
     ["start"] = {
@@ -31359,7 +31416,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28457] = {
     ["start"] = {
@@ -31374,7 +31431,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28458] = {
     ["start"] = {
@@ -31389,7 +31446,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28459] = {
     ["start"] = {
@@ -31404,7 +31461,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28460] = {
     ["start"] = {
@@ -31419,7 +31476,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28461] = {
     ["start"] = {
@@ -31434,7 +31491,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28462] = {
     ["start"] = {
@@ -31449,7 +31506,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28463] = {
     ["start"] = {
@@ -31464,7 +31521,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28464] = {
     ["start"] = {
@@ -31479,7 +31536,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28465] = {
     ["start"] = {
@@ -31494,7 +31551,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28466] = {
     ["start"] = {
@@ -31509,7 +31566,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28467] = {
     ["start"] = {
@@ -31524,7 +31581,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28468] = {
     ["start"] = {
@@ -31539,7 +31596,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28469] = {
     ["start"] = {
@@ -31554,7 +31611,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28470] = {
     ["start"] = {
@@ -31569,7 +31626,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28471] = {
     ["start"] = {
@@ -31584,7 +31641,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 200,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28472] = {
     ["start"] = {
@@ -31599,7 +31656,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28473] = {
     ["start"] = {
@@ -31614,7 +31671,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 202,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28474] = {
     ["start"] = {
@@ -31629,7 +31686,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28475] = {
     ["start"] = {
@@ -31644,7 +31701,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28476] = {
     ["start"] = {
@@ -31659,7 +31716,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28477] = {
     ["start"] = {
@@ -31674,7 +31731,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28478] = {
     ["start"] = {
@@ -31689,7 +31746,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 150,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28479] = {
     ["start"] = {
@@ -31704,7 +31761,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28480] = {
     ["start"] = {
@@ -31719,7 +31776,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28481] = {
     ["start"] = {
@@ -31734,7 +31791,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 250,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28482] = {
     ["start"] = {
@@ -31749,7 +31806,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28483] = {
     ["start"] = {
@@ -31764,7 +31821,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28484] = {
     ["start"] = {
@@ -31779,7 +31836,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28485] = {
     ["start"] = {
@@ -31794,7 +31851,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 270,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28486] = {
     ["start"] = {
@@ -31809,7 +31866,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28487] = {
     ["start"] = {
@@ -31824,7 +31881,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28488] = {
     ["start"] = {
@@ -31839,7 +31896,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28489] = {
     ["start"] = {
@@ -31854,7 +31911,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28490] = {
     ["start"] = {
@@ -31869,7 +31926,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 150,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28491] = {
     ["start"] = {
@@ -31884,7 +31941,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28492] = {
     ["start"] = {
@@ -31899,7 +31956,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 129,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28493] = {
     ["start"] = {
@@ -31912,9 +31969,9 @@ pfDB["quests"]["data-epoch"] = {
       ["I"] = { 8544 },
     },
     ["skill"] = 129,
-    ["skillmin"] = 200,
+    ["skillmin"] = 210,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28494] = {
     ["start"] = {
@@ -31929,7 +31986,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28495] = {
     ["start"] = {
@@ -31944,7 +32001,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28496] = {
     ["start"] = {
@@ -31959,7 +32016,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28497] = {
     ["start"] = {
@@ -31974,7 +32031,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28498] = {
     ["start"] = {
@@ -31989,7 +32046,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28499] = {
     ["start"] = {
@@ -32004,7 +32061,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28500] = {
     ["start"] = {
@@ -32019,7 +32076,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28501] = {
     ["start"] = {
@@ -32034,7 +32091,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28502] = {
     ["start"] = {
@@ -32049,7 +32106,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28503] = {
     ["start"] = {
@@ -32064,7 +32121,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28504] = {
     ["start"] = {
@@ -32079,7 +32136,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28505] = {
     ["start"] = {
@@ -32094,7 +32151,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28506] = {
     ["start"] = {
@@ -32109,7 +32166,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28507] = {
     ["start"] = {
@@ -32124,7 +32181,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28508] = {
     ["start"] = {
@@ -32139,7 +32196,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28509] = {
     ["start"] = {
@@ -32154,7 +32211,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28510] = {
     ["start"] = {
@@ -32169,7 +32226,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28511] = {
     ["start"] = {
@@ -32184,7 +32241,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28512] = {
     ["start"] = {
@@ -32199,7 +32256,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28513] = {
     ["start"] = {
@@ -32214,7 +32271,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28514] = {
     ["start"] = {
@@ -32229,7 +32286,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28515] = {
     ["start"] = {
@@ -32244,7 +32301,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28516] = {
     ["start"] = {
@@ -32259,7 +32316,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 356,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28517] = {
     ["start"] = {
@@ -32274,7 +32331,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28518] = {
     ["start"] = {
@@ -32289,7 +32346,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28519] = {
     ["start"] = {
@@ -32304,7 +32361,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 50,
     ["lvl"] = 3,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28520] = {
     ["start"] = {
@@ -32319,7 +32376,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28521] = {
     ["start"] = {
@@ -32334,7 +32391,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28522] = {
     ["start"] = {
@@ -32349,7 +32406,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28523] = {
     ["start"] = {
@@ -32364,7 +32421,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28524] = {
     ["start"] = {
@@ -32379,7 +32436,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28525] = {
     ["start"] = {
@@ -32394,7 +32451,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28526] = {
     ["start"] = {
@@ -32409,7 +32466,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28527] = {
     ["start"] = {
@@ -32425,7 +32482,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28528] = {
     ["start"] = {
@@ -32440,7 +32497,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28529] = {
     ["start"] = {
@@ -32455,7 +32512,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28530] = {
     ["start"] = {
@@ -32470,7 +32527,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28531] = {
     ["start"] = {
@@ -32485,7 +32542,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28532] = {
     ["start"] = {
@@ -32501,7 +32558,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 300,
     ["lvl"] = 55,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28533] = {
     ["start"] = {
@@ -32516,7 +32573,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28534] = {
     ["start"] = {
@@ -32531,7 +32588,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28535] = {
     ["start"] = {
@@ -32546,7 +32603,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28536] = {
     ["start"] = {
@@ -32561,7 +32618,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28537] = {
     ["start"] = {
@@ -32576,7 +32633,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28538] = {
     ["start"] = {
@@ -32591,7 +32648,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28539] = {
     ["start"] = {
@@ -32606,7 +32663,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28540] = {
     ["start"] = {
@@ -32621,7 +32678,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28541] = {
     ["start"] = {
@@ -32636,7 +32693,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 300,
     ["lvl"] = 55,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28542] = {
     ["start"] = {
@@ -32651,7 +32708,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28543] = {
     ["start"] = {
@@ -32666,7 +32723,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28544] = {
     ["start"] = {
@@ -32681,7 +32738,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 50,
     ["lvl"] = 3,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28545] = {
     ["start"] = {
@@ -32696,7 +32753,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28546] = {
     ["start"] = {
@@ -32711,7 +32768,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28547] = {
     ["start"] = {
@@ -32727,7 +32784,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28548] = {
     ["start"] = {
@@ -32742,7 +32799,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28549] = {
     ["start"] = {
@@ -32757,7 +32814,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28550] = {
     ["start"] = {
@@ -32772,7 +32829,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28551] = {
     ["start"] = {
@@ -32787,7 +32844,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28552] = {
     ["start"] = {
@@ -32803,7 +32860,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28553] = {
     ["start"] = {
@@ -32818,7 +32875,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28554] = {
     ["start"] = {
@@ -32834,7 +32891,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28555] = {
     ["start"] = {
@@ -32849,7 +32906,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28556] = {
     ["start"] = {
@@ -32864,7 +32921,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28557] = {
     ["start"] = {
@@ -32879,7 +32936,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 182,
     ["skillmin"] = 300,
     ["lvl"] = 55,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28558] = {
     ["start"] = {
@@ -32894,7 +32951,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28559] = {
     ["start"] = {
@@ -32909,7 +32966,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28560] = {
     ["start"] = {
@@ -32924,7 +32981,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28561] = {
     ["start"] = {
@@ -32939,7 +32996,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28562] = {
     ["start"] = {
@@ -32954,7 +33011,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28563] = {
     ["start"] = {
@@ -32969,7 +33026,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28564] = {
     ["start"] = {
@@ -32984,7 +33041,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28565] = {
     ["start"] = {
@@ -32999,7 +33056,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28566] = {
     ["start"] = {
@@ -33014,7 +33071,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28567] = {
     ["start"] = {
@@ -33029,7 +33086,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28568] = {
     ["start"] = {
@@ -33044,7 +33101,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28569] = {
     ["start"] = {
@@ -33059,7 +33116,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28570] = {
     ["start"] = {
@@ -33074,7 +33131,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28571] = {
     ["start"] = {
@@ -33089,7 +33146,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28572] = {
     ["start"] = {
@@ -33104,7 +33161,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28573] = {
     ["start"] = {
@@ -33119,7 +33176,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28574] = {
     ["start"] = {
@@ -33134,7 +33191,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28575] = {
     ["start"] = {
@@ -33149,7 +33206,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28576] = {
     ["start"] = {
@@ -33164,7 +33221,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28577] = {
     ["start"] = {
@@ -33179,7 +33236,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28578] = {
     ["start"] = {
@@ -33194,7 +33251,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28579] = {
     ["start"] = {
@@ -33209,7 +33266,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28580] = {
     ["start"] = {
@@ -33224,7 +33281,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28581] = {
     ["start"] = {
@@ -33239,7 +33296,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28582] = {
     ["start"] = {
@@ -33255,7 +33312,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28583] = {
     ["start"] = {
@@ -33270,7 +33327,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28584] = {
     ["start"] = {
@@ -33285,7 +33342,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28585] = {
     ["start"] = {
@@ -33300,7 +33357,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28586] = {
     ["start"] = {
@@ -33315,7 +33372,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28587] = {
     ["start"] = {
@@ -33330,7 +33387,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28588] = {
     ["start"] = {
@@ -33345,7 +33402,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28589] = {
     ["start"] = {
@@ -33360,7 +33417,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28590] = {
     ["start"] = {
@@ -33375,7 +33432,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28591] = {
     ["start"] = {
@@ -33390,7 +33447,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28592] = {
     ["start"] = {
@@ -33405,7 +33462,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28593] = {
     ["start"] = {
@@ -33420,7 +33477,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28594] = {
     ["start"] = {
@@ -33435,7 +33492,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28595] = {
     ["start"] = {
@@ -33450,7 +33507,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28596] = {
     ["start"] = {
@@ -33465,7 +33522,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28597] = {
     ["start"] = {
@@ -33480,7 +33537,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28598] = {
     ["start"] = {
@@ -33495,7 +33552,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28599] = {
     ["start"] = {
@@ -33510,7 +33567,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28600] = {
     ["start"] = {
@@ -33525,7 +33582,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28601] = {
     ["start"] = {
@@ -33540,7 +33597,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28602] = {
     ["start"] = {
@@ -33555,7 +33612,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28603] = {
     ["start"] = {
@@ -33570,7 +33627,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28604] = {
     ["start"] = {
@@ -33585,7 +33642,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28605] = {
     ["start"] = {
@@ -33600,7 +33657,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28606] = {
     ["start"] = {
@@ -33615,7 +33672,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28607] = {
     ["start"] = {
@@ -33630,7 +33687,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 165,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28608] = {
     ["start"] = {
@@ -33645,7 +33702,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28609] = {
     ["start"] = {
@@ -33660,7 +33717,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28610] = {
     ["start"] = {
@@ -33675,7 +33732,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28611] = {
     ["start"] = {
@@ -33690,7 +33747,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28612] = {
     ["start"] = {
@@ -33705,7 +33762,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28613] = {
     ["start"] = {
@@ -33720,7 +33777,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28614] = {
     ["start"] = {
@@ -33735,7 +33792,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28615] = {
     ["start"] = {
@@ -33750,7 +33807,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28616] = {
     ["start"] = {
@@ -33765,7 +33822,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28617] = {
     ["start"] = {
@@ -33780,7 +33837,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28618] = {
     ["start"] = {
@@ -33795,7 +33852,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28619] = {
     ["start"] = {
@@ -33810,7 +33867,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28620] = {
     ["start"] = {
@@ -33825,7 +33882,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28621] = {
     ["start"] = {
@@ -33840,7 +33897,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28622] = {
     ["start"] = {
@@ -33855,7 +33912,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28623] = {
     ["start"] = {
@@ -33870,7 +33927,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28624] = {
     ["start"] = {
@@ -33885,7 +33942,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28625] = {
     ["start"] = {
@@ -33900,7 +33957,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28626] = {
     ["start"] = {
@@ -33915,7 +33972,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28627] = {
     ["start"] = {
@@ -33930,7 +33987,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28628] = {
     ["start"] = {
@@ -33945,7 +34002,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28629] = {
     ["start"] = {
@@ -33960,7 +34017,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28630] = {
     ["start"] = {
@@ -33975,7 +34032,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28631] = {
     ["start"] = {
@@ -33990,7 +34047,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28632] = {
     ["start"] = {
@@ -34005,7 +34062,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 393,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28633] = {
     ["start"] = {
@@ -34020,7 +34077,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28634] = {
     ["start"] = {
@@ -34035,7 +34092,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28635] = {
     ["start"] = {
@@ -34050,7 +34107,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 50,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28636] = {
     ["start"] = {
@@ -34064,8 +34121,8 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["skill"] = 186,
     ["skillmin"] = 100,
-    ["lvl"] = 2,
-    ["min"] = 5,
+    ["lvl"] = 20,
+    ["min"] = 15,
   },
   [28637] = {
     ["start"] = {
@@ -34079,8 +34136,8 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["skill"] = 186,
     ["skillmin"] = 100,
-    ["lvl"] = 2,
-    ["min"] = 5,
+    ["lvl"] = 20,
+    ["min"] = 15,
   },
   [28638] = {
     ["start"] = {
@@ -34095,7 +34152,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 100,
     ["lvl"] = 15,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28639] = {
     ["start"] = {
@@ -34110,7 +34167,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 150,
     ["lvl"] = 15,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28640] = {
     ["start"] = {
@@ -34125,7 +34182,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 100,
     ["lvl"] = 15,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28641] = {
     ["start"] = {
@@ -34140,7 +34197,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 150,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28642] = {
     ["start"] = {
@@ -34155,7 +34212,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28643] = {
     ["start"] = {
@@ -34170,7 +34227,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 150,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28644] = {
     ["start"] = {
@@ -34185,7 +34242,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 150,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28645] = {
     ["start"] = {
@@ -34200,7 +34257,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28646] = {
     ["start"] = {
@@ -34215,7 +34272,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28647] = {
     ["start"] = {
@@ -34230,7 +34287,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28648] = {
     ["start"] = {
@@ -34245,7 +34302,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28649] = {
     ["start"] = {
@@ -34260,7 +34317,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 100,
     ["lvl"] = 15,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28650] = {
     ["start"] = {
@@ -34275,7 +34332,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28651] = {
     ["start"] = {
@@ -34290,7 +34347,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28652] = {
     ["start"] = {
@@ -34305,7 +34362,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28653] = {
     ["start"] = {
@@ -34320,7 +34377,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28654] = {
     ["start"] = {
@@ -34335,7 +34392,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28655] = {
     ["start"] = {
@@ -34350,7 +34407,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28656] = {
     ["start"] = {
@@ -34365,7 +34422,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28657] = {
     ["start"] = {
@@ -34380,7 +34437,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28658] = {
     ["start"] = {
@@ -34395,7 +34452,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 10,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28659] = {
     ["start"] = {
@@ -34410,7 +34467,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 50,
     ["lvl"] = 2,
-    ["min"] = 5,
+    ["min"] = 1,
   },
   [28660] = {
     ["start"] = {
@@ -34424,8 +34481,8 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["skill"] = 186,
     ["skillmin"] = 100,
-    ["lvl"] = 2,
-    ["min"] = 5,
+    ["lvl"] = 20,
+    ["min"] = 15,
   },
   [28661] = {
     ["start"] = {
@@ -34439,8 +34496,8 @@ pfDB["quests"]["data-epoch"] = {
     },
     ["skill"] = 186,
     ["skillmin"] = 100,
-    ["lvl"] = 2,
-    ["min"] = 5,
+    ["lvl"] = 20,
+    ["min"] = 15,
   },
   [28662] = {
     ["start"] = {
@@ -34455,7 +34512,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 100,
     ["lvl"] = 15,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28663] = {
     ["start"] = {
@@ -34471,7 +34528,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 100,
     ["lvl"] = 15,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28664] = {
     ["start"] = {
@@ -34486,7 +34543,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 100,
     ["lvl"] = 15,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28665] = {
     ["start"] = {
@@ -34501,7 +34558,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 150,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28666] = {
     ["start"] = {
@@ -34516,7 +34573,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28667] = {
     ["start"] = {
@@ -34531,7 +34588,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 150,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28668] = {
     ["start"] = {
@@ -34546,7 +34603,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 150,
     ["lvl"] = 25,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28669] = {
     ["start"] = {
@@ -34561,7 +34618,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 200,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28670] = {
     ["start"] = {
@@ -34576,7 +34633,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28671] = {
     ["start"] = {
@@ -34591,7 +34648,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 35,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28672] = {
     ["start"] = {
@@ -34606,7 +34663,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 186,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28673] = {
     ["start"] = {
@@ -34621,7 +34678,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28674] = {
     ["start"] = {
@@ -34636,7 +34693,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28675] = {
     ["start"] = {
@@ -34651,7 +34708,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28676] = {
     ["start"] = {
@@ -34666,7 +34723,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28677] = {
     ["start"] = {
@@ -34681,7 +34738,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28678] = {
     ["start"] = {
@@ -34696,7 +34753,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28679] = {
     ["start"] = {
@@ -34711,7 +34768,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28680] = {
     ["start"] = {
@@ -34726,7 +34783,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28681] = {
     ["start"] = {
@@ -34741,7 +34798,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28682] = {
     ["start"] = {
@@ -34756,7 +34813,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28683] = {
     ["start"] = {
@@ -34771,7 +34828,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28684] = {
     ["start"] = {
@@ -34786,7 +34843,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28685] = {
     ["start"] = {
@@ -34801,7 +34858,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28686] = {
     ["start"] = {
@@ -34816,7 +34873,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28687] = {
     ["start"] = {
@@ -34831,7 +34888,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28688] = {
     ["start"] = {
@@ -34846,7 +34903,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28689] = {
     ["start"] = {
@@ -34861,7 +34918,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28690] = {
     ["start"] = {
@@ -34876,7 +34933,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28691] = {
     ["start"] = {
@@ -34891,7 +34948,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28692] = {
     ["start"] = {
@@ -34906,7 +34963,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28693] = {
     ["start"] = {
@@ -34922,7 +34979,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28694] = {
     ["start"] = {
@@ -34937,7 +34994,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28695] = {
     ["start"] = {
@@ -34952,7 +35009,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28696] = {
     ["start"] = {
@@ -34967,7 +35024,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28697] = {
     ["start"] = {
@@ -34982,7 +35039,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28698] = {
     ["start"] = {
@@ -34997,7 +35054,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28699] = {
     ["start"] = {
@@ -35012,7 +35069,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28700] = {
     ["start"] = {
@@ -35027,7 +35084,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28701] = {
     ["start"] = {
@@ -35042,7 +35099,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28702] = {
     ["start"] = {
@@ -35057,7 +35114,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 50,
     ["lvl"] = 10,
-    ["min"] = 5,
+    ["min"] = 10,
   },
   [28703] = {
     ["start"] = {
@@ -35072,7 +35129,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28704] = {
     ["start"] = {
@@ -35087,7 +35144,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28705] = {
     ["start"] = {
@@ -35102,7 +35159,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28706] = {
     ["start"] = {
@@ -35117,7 +35174,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28707] = {
     ["start"] = {
@@ -35132,7 +35189,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28708] = {
     ["start"] = {
@@ -35147,7 +35204,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 100,
     ["lvl"] = 20,
-    ["min"] = 5,
+    ["min"] = 15,
   },
   [28709] = {
     ["start"] = {
@@ -35162,7 +35219,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28710] = {
     ["start"] = {
@@ -35177,7 +35234,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28711] = {
     ["start"] = {
@@ -35192,7 +35249,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28712] = {
     ["start"] = {
@@ -35208,7 +35265,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28713] = {
     ["start"] = {
@@ -35223,7 +35280,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 150,
     ["lvl"] = 30,
-    ["min"] = 5,
+    ["min"] = 25,
   },
   [28714] = {
     ["start"] = {
@@ -35238,7 +35295,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28715] = {
     ["start"] = {
@@ -35253,7 +35310,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28716] = {
     ["start"] = {
@@ -35268,7 +35325,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28717] = {
     ["start"] = {
@@ -35283,7 +35340,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 200,
     ["lvl"] = 40,
-    ["min"] = 5,
+    ["min"] = 35,
   },
   [28718] = {
     ["start"] = {
@@ -35299,7 +35356,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28719] = {
     ["start"] = {
@@ -35314,7 +35371,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28720] = {
     ["start"] = {
@@ -35329,7 +35386,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28721] = {
     ["start"] = {
@@ -35344,7 +35401,7 @@ pfDB["quests"]["data-epoch"] = {
     ["skill"] = 197,
     ["skillmin"] = 250,
     ["lvl"] = 50,
-    ["min"] = 5,
+    ["min"] = 45,
   },
   [28722] = {
     ["start"] = {
